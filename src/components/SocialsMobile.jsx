@@ -12,7 +12,7 @@ const SocialsMobile = ({ lang }) => {
       {/* Logo */}
       <Link href="/">
         <Image
-          src="/logo-salama-humberger.png"
+          src="/logo-salama.png"
           alt="le salama logo"
           width={75}
           height={75}
