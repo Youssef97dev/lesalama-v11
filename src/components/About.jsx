@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <div className="h-full lg:h-[60vh] w-full py-10 lg:py-32 px-5 lg:px-[24rem]  text-[#000000] bg-color_3">
+    <div className="h-full lg:h-[60vh] w-full py-10 lg:py-32 px-5 lg:px-[24rem]  text-color_1 bg-color_3">
       <p className="leading-7 font-thin">
         {`Le Salama est une célébration des saveurs, une ode à l'équilibre et une invitation au voyage sensoriel au cœur de Marrakech.`}
         <br />
