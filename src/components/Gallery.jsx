@@ -41,12 +41,6 @@ const images = [
   },
   {
     original:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/v5tofb0oz21djnpcndnp",
-    thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_800,w_800/Salama/v5tofb0oz21djnpcndnp",
-  },
-  {
-    original:
       "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/yakitd32v7jwvcvm45s2",
     thumbnail:
       "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_800,w_800/Salama/yakitd32v7jwvcvm45s2",
@@ -62,12 +56,6 @@ const images = [
       "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/ni7vfkrlwb87zqrvpxnu",
     thumbnail:
       "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_800,w_800/Salama/ni7vfkrlwb87zqrvpxnu",
-  },
-  {
-    original:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/b7h3rwt7j3mbg9vpr8f0",
-    thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_800,w_800/Salama/b7h3rwt7j3mbg9vpr8f0",
   },
   {
     original:
@@ -110,13 +98,6 @@ const images = [
       "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/l82088oouatpkpnzghps",
     thumbnail:
       "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_800,w_800/Salama/l82088oouatpkpnzghps",
-  },
-
-  {
-    original:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/xwerxxpgsfov4tzwbwvs",
-    thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_800,w_800/Salama/xwerxxpgsfov4tzwbwvs",
   },
 
   {
