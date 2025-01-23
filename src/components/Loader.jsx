@@ -27,14 +27,10 @@ const Loader = () => {
       {isClient ? (
         <div className="relative p-0 lg:p-7 w-full h-full flex flex-col justify-start items-center">
           <SocialsMobile lang="fr" />
-          <NavbarMobile
-            item1={`Evénements`}
-            item2={`La carte`}
-            item3={`Gallery`}
-          />
+          <NavbarMobile item1={`Evénements`} item2={`Menu`} item3={`Gallery`} />
           <Navbar
             item1={`Evénements`}
-            item2={`La carte`}
+            item2={`Menu`}
             item3={`Gallery`}
             lang="fr"
           />
