@@ -19,7 +19,7 @@ const Footer = ({ title1, title2 }) => {
             className="cursor-pointer lg:block hidden"
           />
           <Image
-            src="/logo-salama-humberger-brown.png"
+            src="/logo-salama-humberger.png"
             alt="le salama logo"
             width={100}
             height={100}
