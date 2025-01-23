@@ -15,7 +15,7 @@ const Bar = () => {
       </div>
       <div className="w-full h-full flex flex-col justify-center items-center gap-5  text-center text-white">
         <h1 className="text-[40px] leading-[40px] font-extralight">Le Bar</h1>
-        <p className="font-thin text-[16px] leading-[24px] px-4">
+        <p className="font-extralight text-[16px] leading-[24px] px-4">
           {`Au Salama, notre bar propose une expérience unique avec une sélection de cocktails exquis, de vins raffinés et de boissons locales. C’est l’endroit idéal pour se détendre, socialiser et profiter du charme de Marrakech dans une ambiance animée.`}
         </p>
         <Link href="#" className="bg-white text-color_1 px-4 py-2">

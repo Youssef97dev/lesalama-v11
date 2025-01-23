@@ -20,7 +20,7 @@ const Events = () => {
           Evénements
         </h1>
         <br />
-        <p className="font-thin text-[16px] leading-[24px] px-4">
+        <p className="font-extralight text-[16px] leading-[24px] px-4">
           {`Le Salama organise des événements animés tous les soirs, allant de spectacles de danse orientale captivants à des performances musicales en direct.`}
         </p>
         <p className="font-thin text-[16px] leading-[24px] px-4">

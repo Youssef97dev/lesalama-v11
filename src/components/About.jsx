@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <div className="h-full lg:h-[60vh] w-full py-10 lg:py-32 px-5 lg:px-[24rem]  text-color_1 bg-color_3">
-      <p className="leading-7 font-thin">
+      <p className="leading-7 font-extralight text-center">
         {`Le Salama est une célébration des saveurs, une ode à l'équilibre et une invitation au voyage sensoriel au cœur de Marrakech.`}
         <br />
         {`Nos plats sont élaborés dans le plus grand respect de la tradition marocaine, rehaussée par la créativité culinaire mondiale.`}
