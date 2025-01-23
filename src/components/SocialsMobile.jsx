@@ -16,7 +16,7 @@ const SocialsMobile = ({ lang }) => {
           alt="le salama logo"
           width={115}
           height={115}
-          className="cursor-pointer"
+          className="cursor-pointer mx-2"
         />
       </Link>
       <div className="w-full flex justify-end items-center">
