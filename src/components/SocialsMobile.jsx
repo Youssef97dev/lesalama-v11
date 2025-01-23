@@ -14,8 +14,8 @@ const SocialsMobile = ({ lang }) => {
         <Image
           src="/logo-salama.png"
           alt="le salama logo"
-          width={200}
-          height={200}
+          width={150}
+          height={150}
           className="cursor-pointer mx-2"
         />
       </Link>
